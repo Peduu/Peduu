@@ -38,7 +38,7 @@ Desenvolvedor full-stack com atuação prática em sistemas operacionais de alto
 - **38 franquias** gerenciadas em tempo real
 - **Custo operacional zero** — infraestrutura 100% open-source
 
-Cursando **CPA** e **C-Pro R** — usando programação como base para expandir atuação ao mercado financeiro.
+Estudando para **CPA** e **C-Pro R** — usando programação como base para expandir atuação ao mercado financeiro.
 
 ---
 
