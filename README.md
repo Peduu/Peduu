@@ -38,7 +38,7 @@ Desenvolvedor full-stack com atuação prática em sistemas operacionais de alto
 - **38 franquias** gerenciadas em tempo real
 - **Custo operacional zero** — infraestrutura 100% open-source
 
-Estudando para **CPA** e **C-Pro R** — usando programação como base para expandir atuação ao mercado financeiro.
+Cursando **CPA** e **C-Pro R** — usando programação como base para expandir atuação ao mercado financeiro.
 
 ---
 
@@ -73,19 +73,9 @@ Outros    → SMTP · PDF · CAPTCHA server-side
 
 ---
 
-## GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Peduu&show_icons=true&theme=dark&hide_border=true&count_private=true" height="140"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peduu&layout=compact&theme=dark&hide_border=true" height="140"/>
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/Peduu/Peduu/raw/main/portfolio-peduu.zip">
-    <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Baixar%20todos%20os%20arquivos%20%28ZIP%29-28A745?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://linkedin.com/in/pedroforlin">
+    <img src="https://img.shields.io/badge/Acessar%20meu%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
