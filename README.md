@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:pedroforlincorellilog@gmail.com">
+  <a href="mailto:Pedrohfg020@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
@@ -34,7 +34,7 @@ Desenvolvedor full-stack com atuação prática em sistemas operacionais de alto
 - **38 franquias** gerenciadas em tempo real
 - **Custo operacional zero** — infraestrutura 100% open-source
 
-Estudando para **CPA** e **C-Pro R** — usando programação como base para expandir atuação ao mercado financeiro.
+Cursando **CPA** e **C-Pro R** — usando programação como base para expandir atuação ao mercado financeiro.
 
 ---
 
