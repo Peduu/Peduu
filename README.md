@@ -21,10 +21,6 @@
   <a href="https://linkedin.com/in/pedroforlin">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="https://github.com/Peduu/Peduu/raw/main/portfolio-peduu.zip">
-    <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20Portfolio%20ZIP-28A745?style=flat&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 ---
