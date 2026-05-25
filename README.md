@@ -1,61 +1,64 @@
 <h1 align="center">Pedro Forlin</h1>
+
 <p align="center">
   <strong>Desenvolvedor Full-Stack</strong> &nbsp;·&nbsp; Logística Operacional &nbsp;·&nbsp; Mercado Financeiro
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Leaflet.js-199900?style=flat&logo=leaflet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white"/>
 </p>
 
 ---
 
 ## Sobre mim
 
-Desenvolvedor full-stack com sistemas em produção no ecossistema AgyLog / CorelliLog — empresa de logística com operação real e volume diário de pedidos.
+Desenvolvedor full-stack com atuação prática em sistemas operacionais de alto volume.
 
-- **5 sistemas** em produção, infraestrutura 100% open-source
-- **+143.000 pedidos** processados no banco de dados
+- **5 sistemas em produção** — autenticação, rastreamento, frota, comunicados e bipagem
+- **+143.000 pedidos processados** por um dos sistemas que desenvolvi
 - **38 franquias** gerenciadas em tempo real
-- **Custo operacional: R$ 0,00** — toda a stack é gratuita
+- **Custo operacional zero** — infraestrutura 100% open-source
 
-Cursando **CPA-10** e **C-Pro R** — migrando para o mercado financeiro.
+Cursando **CPA** e **C-Pro R** — usando programação como base para expandir atuação ao mercado financeiro.
 
 ---
 
 ## Sistemas em Produção
 
-| Sistema | Descrição | Stack |
+| Projeto | Descrição | Destaques |
 |---|---|---|
-| [Portal de Rastreio](https://github.com/Peduu/agylog-portal-rastreio) | Login seguro + CAPTCHA server-side | Flask · nginx · Let's Encrypt |
-| [Rastreio Aéreo](https://github.com/Peduu/agylog-rastreio-aereo) | Mapa interativo de cargas aéreas + PDF | Leaflet · Flask · OpenStreetMap |
-| [Central de Rotas](https://github.com/Peduu/agylog-central-rotas) | Frota em tempo real (9s polling, 9+ veículos) | Leaflet · Flask · CSV |
-| [Card Notifier](https://github.com/Peduu/agylog-card-notifier) | Comunicados formais + disparo SMTP | Flask · SMTP · HTML Templates |
-| [Bipagem de Franquia](https://github.com/Peduu/agylog-bipagem-franquia) | 143.632 pedidos · 38 franquias · sync TMS | Flask · SQLite · CSV |
+| [Portal de Rastreio AgyLog](https://github.com/Peduu/agylog-portal-rastreio) | Login seguro com CAPTCHA + HTTPS | Auth · SSL · CAPTCHA customizado |
+| [Rastreio Aéreo CorelliLog](https://github.com/Peduu/agylog-rastreio-aereo) | Tracking de cargas aéreas com mapa interativo | Leaflet.js · Geração de PDF · Status por voo |
+| [Central de Rotas](https://github.com/Peduu/agylog-central-rotas) | Frota em tempo real, múltiplos veículos | Atualização 9s · CSV · Mapa ao vivo |
+| [Card Notifier AgyLog](https://github.com/Peduu/agylog-card-notifier) | Comunicados operacionais formais + disparador de e-mail | SMTP · Templates HTML · Geração de carta |
+| [Bipagem de Franquia](https://github.com/Peduu/agylog-bipagem-franquia) | 143k+ pedidos, 38 franquias, sync com TMS | TMS Integration · CSV import · Banco acumulado |
 
 ---
 
 ## Stack
 
 ```
-Python · Flask · Gunicorn
-HTML · CSS · JavaScript
-Leaflet.js · OpenStreetMap
-nginx · VPS Linux
-SMTP · PDF server-side
+Backend   → Python · Flask · Gunicorn · FastAPI
+Frontend  → HTML · CSS · JavaScript · Leaflet.js
+Infra     → nginx · VPS Linux · Let's Encrypt · nip.io
+Dados     → SQLite · PostgreSQL · CSV · TMS
+Outros    → SMTP · PDF generation · CAPTCHA server-side
 ```
 
 ---
 
 ## Certificações em andamento
 
-- 📊 **CPA-10** — Certificação Profissional ANBIMA (Série 10)
-- 📈 **C-Pro R** — Certificação de Operadores (Renda Variável)
+- 📚 **CPA** — ANBIMA (em progresso)
+- 📚 **C-Pro R** — (em progresso)
 
 ---
 
-📧 pedroforlincorellilog@gmail.com
+<p align="center">
+  <a href="mailto:pedroforlincorellilog@gmail.com">pedroforlincorellilog@gmail.com</a>
+</p>
