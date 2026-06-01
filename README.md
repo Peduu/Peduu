@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:Pedrohfg020@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=Pedrohfg020@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
@@ -34,7 +34,7 @@ Desenvolvedor full-stack com atuação prática em sistemas operacionais de alto
 - **38 franquias** gerenciadas em tempo real
 - **Custo operacional zero** — infraestrutura 100% open-source
 
-Cursando **CPA** e **C-Pro R** — usando programação como base para expandir atuação ao mercado financeiro.
+Cursando **C-Pro R** — usando programação como base para expandir atuação ao mercado financeiro.
 
 ---
 
@@ -64,7 +64,6 @@ Outros    → SMTP · PDF · CAPTCHA server-side
 
 ## Certificações em andamento
 
-- 📚 **CPA** — ANBIMA (em progresso)
 - 📚 **C-Pro R** (em progresso)
 
 ---
