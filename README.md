@@ -22,7 +22,7 @@
 
 Desenvolvedor de sistemas com atuação prática em operações logísticas de alto volume — construo, publico e mantenho infraestrutura completa, do banco de dados ao deploy.
 
-- **5 sistemas em produção** na Corelli Log — autenticação, rastreamento, frota, comunicados e bipagem
+- **5 sistemas em produção** — autenticação, rastreamento, frota, comunicados e bipagem
 - **+143.000 pedidos processados** no portal de bipagem de franquias
 - **38 franquias** integradas em tempo real via TMS
 - **Portais white-label ativos** para Tribanco, BRB, PinBank, Panini e Inter
@@ -31,7 +31,7 @@ Em preparação para certificação do mercado financeiro (ANBIMA), unindo tecno
 
 ---
 
-## Sistemas em Produção — Corelli Log
+## Sistemas em Produção
 
 | Projeto | Descrição | Stack principal |
 |---|---|---|
