@@ -22,7 +22,7 @@
 
 Desenvolvedor de sistemas com atuação prática em operações logísticas de alto volume — construo, publico e mantenho infraestrutura completa, do banco de dados ao deploy.
 
-- **5 sistemas em produção** — autenticação, rastreamento, frota, comunicados e bipagem
+- **5 sistemas em produção** na Corelli Log — autenticação, rastreamento, frota, comunicados e bipagem
 - **+143.000 pedidos processados** no portal de bipagem de franquias
 - **38 franquias** integradas em tempo real via TMS
 - **Portais white-label ativos** para Tribanco, BRB, PinBank, Panini e Inter
@@ -31,14 +31,14 @@ Em preparação para certificação do mercado financeiro (ANBIMA), unindo tecno
 
 ---
 
-## Sistemas em Produção
+## Sistemas em Produção — Corelli Log
 
 | Projeto | Descrição | Stack principal |
 |---|---|---|
-| **Portal de Rastreio AgyLog** | Autenticação em duas etapas com CAPTCHA server-side e HTTPS | Python · Flask · SSL |
-| **Rastreio Aéreo CorelliLog** | Tracking de cargas aéreas com mapa interativo e minutas em PDF | Leaflet.js · Flask |
+| **Portal de Rastreio** | Autenticação em duas etapas com CAPTCHA server-side e HTTPS | Python · Flask · SSL |
+| **Rastreio Aéreo** | Tracking de cargas aéreas com mapa interativo e minutas em PDF | Leaflet.js · Flask |
 | **Central de Rotas** | Frota em tempo real com atualização automática a cada 9s | Leaflet.js · Flask |
-| **Card Notifier AgyLog** | Comunicados operacionais formais com disparo automático via SMTP | TypeScript · SMTP |
+| **Card Notifier** | Comunicados operacionais formais com disparo automático via SMTP | TypeScript · SMTP |
 | **Bipagem de Franquia** | +143 mil pedidos, 38 franquias, sincronização com TMS | Python · PostgreSQL |
 | **Portais White-Label** | 6 portais de rastreamento com identidade própria por parceiro | Python · Flask · nginx |
 
