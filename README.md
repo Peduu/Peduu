@@ -2,7 +2,7 @@
 
 # Pedro Forlin
 
-**Desenvolvedor de Sistemas · Logística Operacional · Mercado Financeiro**
+**Engenheiro de Sistemas · Logística Operacional · Mercado Financeiro · Machine Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -10,6 +10,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pedrohfg020@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroforlin)
@@ -20,33 +22,35 @@
 
 ## Sobre mim
 
-Desenvolvedor de sistemas com atuação prática em operações logísticas de alto volume — construo, publico e mantenho infraestrutura completa, do banco de dados ao deploy.
+Engenheiro de sistemas com atuação prática em operações logísticas de alto volume — projeto, publico e mantenho infraestrutura completa, do banco de dados ao deploy.
 
-- **5 sistemas em produção** — autenticação, rastreamento, frota, comunicados e bipagem
-- **+143.000 pedidos processados** no portal de bipagem de franquias
+- **7 sistemas live** — hub operacional, rastreamento B2B, frota, comunicados, bipagem, cargo aéreo e integração e-commerce
+- **+143.000 pedidos** processados no portal de bipagem de franquias
 - **38 franquias** integradas em tempo real via TMS
-- **Portais white-label ativos** para Tribanco, BRB, PinBank, Panini e Inter
+- **Plataforma B2B multi-tenant** com portais white-label para Tribanco, BRB, PinBank, Panini e Inter
+- **Zero custo de infraestrutura** — tudo rodando em VPS Linux único
 
-Em preparação para certificação do mercado financeiro (ANBIMA), unindo tecnologia e operações onde os dados têm impacto direto no negócio.
+Em transição para mercado financeiro e Machine Learning — preparando certificação ANBIMA (C-Pro R).
 
 ---
 
-## Sistemas em Produção
+## Sistemas Live
 
-| Projeto | Descrição | Stack principal |
-|---|---|---|
-| **Portal de Rastreio** | Autenticação em duas etapas com CAPTCHA server-side e HTTPS | Python · Flask · SSL |
-| **Rastreio Aéreo** | Tracking de cargas aéreas com mapa interativo e minutas em PDF | Leaflet.js · Flask |
-| **Central de Rotas** | Frota em tempo real com atualização automática a cada 9s | Leaflet.js · Flask |
-| **Card Notifier** | Comunicados operacionais formais com disparo automático via SMTP | TypeScript · SMTP |
-| **Bipagem de Franquia** | +143 mil pedidos, 38 franquias, sincronização com TMS | Python · PostgreSQL |
-| **Portais White-Label** | 6 portais de rastreamento com identidade própria por parceiro | Python · Flask · nginx |
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| **AgyLog Operations Hub** | Hub operacional central: HAWB, CAOA, reimpressão com auditoria, CI/CD automático via GitHub Actions | Python · Flask · SQLite · nginx |
+| **Portal de Rastreio B2B** | Plataforma multi-tenant com CAPTCHA server-side, rate limiting e portais white-label por parceiro (5 clientes enterprise) | Python · Flask · SSL · nginx |
+| **Rastreio Aéreo** | Tracking de cargas aéreas com mapa interativo em tempo real | Leaflet.js · Flask |
+| **Central de Rotas** | Frota de 9 veículos em tempo real, atualização a cada 10s via API Positron | Leaflet.js · Flask |
+| **Card Notifier** | Engine de e-mails: templates dinâmicos, múltiplos remetentes SMTP e histórico completo de envios | Python · FastAPI · PostgreSQL |
+| **Bipagem de Franquia** | +143.000 pedidos processados em 38 franquias com sync TMS e detecção de divergências em tempo real | Python · SQLite |
+| **Integração E-commerce** | Nuvemshop → TMS: intake de webhooks, roteamento automático, sync bidirecional de rastreamento | TypeScript · Node.js · Express · PostgreSQL · Prisma |
 
 ---
 
 ## Stack
 
-- **Backend** → Python · Flask · Gunicorn · Node.js · TypeScript
+- **Backend** → Python · Flask · FastAPI · Gunicorn · Node.js · TypeScript · Express
 - **Frontend** → HTML · CSS · JavaScript · Leaflet.js
-- **Infraestrutura** → nginx · VPS Linux · Let's Encrypt
-- **Dados** → PostgreSQL · SQLite · integrações TMS e e-commerce (Nuvemshop)
+- **Dados / ML** → PostgreSQL · SQLite · Pandas · scikit-learn · integrações TMS e e-commerce (Nuvemshop)
+- **Infraestrutura** → nginx · VPS Linux · Let's Encrypt · systemd · GitHub Actions
