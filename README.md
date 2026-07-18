@@ -38,7 +38,7 @@ Em transição para mercado financeiro e Machine Learning — preparando certifi
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| **AgyLog Operations Hub** | Hub operacional central: HAWB, CAOA, reimpressão com auditoria, CI/CD automático via GitHub Actions | Python · Flask · SQLite · nginx |
+| **AgyLog Operations Hub** | Painel administrativo central com 13 ferramentas: emissão, reimpressão e importação em lote de HAWB/CAOA, separação e devolução de agências por bipagem, expedição e romaneios, unificação de etiquetas de rastreio em PDF, controle de qualidade (acareação), blocagem, gestão de usuários e permissões, auditoria de acessos e console de banco. CI/CD automático via GitHub Actions | Python · Flask · SQLite · nginx |
 | **Portal de Rastreio B2B** | Plataforma multi-tenant com CAPTCHA server-side, rate limiting e portais white-label por parceiro (5 clientes enterprise) | Python · Flask · SSL · nginx |
 | **Rastreio Aéreo** | Tracking de cargas aéreas com mapa interativo em tempo real | Leaflet.js · Flask |
 | **Central de Rotas** | Frota de 9 veículos em tempo real, atualização a cada 10s via API Positron | Leaflet.js · Flask |
